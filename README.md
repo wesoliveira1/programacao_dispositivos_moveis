@@ -1,1 +1,1 @@
-# programacao_dispositivos_moveis
+# Repositório para a disciplina de Desenvolvimento para Dispositivos Móveis II
